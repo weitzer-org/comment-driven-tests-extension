@@ -1,0 +1,2 @@
+description = "Commits the last generated test to the corresponding test file."
+run = "node commands/commit-test.js"

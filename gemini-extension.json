@@ -1,14 +1,4 @@
 {
   "name": "test-agent",
-  "version": "1.0.0",
-  "commands": [
-    {
-      "name": "/generate-test-from-finding",
-      "description": "Generates a test case from a code review finding. Usage: /generate-test-from-finding <file> <line>"
-    },
-    {
-      "name": "/commit-test",
-      "description": "Commits the last generated test to the corresponding test file."
-    }
-  ]
+  "version": "1.0.0"
 }
