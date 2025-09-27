@@ -1,0 +1,2 @@
+description = "Reviews the code, summarizes unit tests and coverage, and suggests improvements."
+run = "node commands/analyze-test-coverage.js"

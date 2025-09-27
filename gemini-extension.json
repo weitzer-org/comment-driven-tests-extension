@@ -1,4 +1,18 @@
 {
   "name": "test-agent",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "commands": [
+    {
+      "name": "/analyze-test-coverage",
+      "description": "Analyzes the test coverage of the project."
+    },
+    {
+      "name": "/commit-test",
+      "description": "Commits the last generated test to the corresponding test file."
+    },
+    {
+      "name": "/generate-test-from-finding",
+      "description": "Generates a test from a finding."
+    }
+  ]
 }
