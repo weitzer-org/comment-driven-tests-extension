@@ -1,2 +1,1 @@
-description = "Generates a test case from a code review finding. Usage: /generate-test-from-finding <file> <line>"
-run = "node commands/generate-test-from-finding.js"
+run = "echo 'Hello from the extension'"
